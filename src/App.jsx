@@ -96,39 +96,39 @@ function App() {
   return (
     <>
       <nav className="nav-bar">
-        <h1 className="logo">THE PLANETS</h1>
+        <h1 className="logo">KENSTATE GROUP</h1>
 
         <div className={`links ${isLinksActive ? "active" : ""}`}>
           <h3 className="link active" tabIndex={0} onClick={ChangeData}>
-            MERCURY
+            WEB DEV
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={1} onClick={ChangeData}>
-            VENUS
+            SYSTEMS DEV
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={2} onClick={ChangeData}>
-            EARTH
+            MOBILE APPS
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={3} onClick={ChangeData}>
-            MARS
+            BUSINESS INTEL
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={4} onClick={ChangeData}>
-            JUPITER
+            CLOUD COMPUTING
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={5} onClick={ChangeData}>
-            SATURN
+            CYBER SECURITY
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={6} onClick={ChangeData}>
-            URANUS
+            TECH SALES
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={7} onClick={ChangeData}>
-            NEPTUNE
+            TRAINING
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
         </div>
