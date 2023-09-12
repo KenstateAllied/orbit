@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(7, 7, 36);
+  background-color: rgb(192,192,192);
   background-image: url(assets/background-stars.svg);
 }
 
@@ -185,28 +185,28 @@ body {
   -ms-transform: scale(1.05);
   -o-transform: scale(1.05);
 }
-.main-section .text-content .buttons .btn.Mercury {
+.main-section .text-content .buttons .btn.BusinessIntel {
   background-color: rgb(65, 158, 187);
 }
-.main-section .text-content .buttons .btn.Venus {
+.main-section .text-content .buttons .btn.Training {
   background-color: rgb(237, 162, 73);
 }
-.main-section .text-content .buttons .btn.Earth {
+.main-section .text-content .buttons .btn.MobileApps {
   background-color: rgb(109, 46, 213);
 }
-.main-section .text-content .buttons .btn.Mars {
+.main-section .text-content .buttons .btn.SystemsDev {
   background-color: rgb(209, 76, 50);
 }
-.main-section .text-content .buttons .btn.Jupiter {
+.main-section .text-content .buttons .btn.WebApps {
   background-color: rgb(216, 58, 52);
 }
-.main-section .text-content .buttons .btn.Saturn {
+.main-section .text-content .buttons .btn.CyberSecurity {
   background-color: rgb(205, 81, 32);
 }
-.main-section .text-content .buttons .btn.Uranus {
+.main-section .text-content .buttons .btn.TechSales {
   background-color: rgb(30, 193, 162);
 }
-.main-section .text-content .buttons .btn.Neptune {
+.main-section .text-content .buttons .btn.CloudComputing {
   background-color: rgb(45, 104, 240);
 }
 

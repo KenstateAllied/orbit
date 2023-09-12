@@ -1,42 +1,42 @@
-import planetEarth from "./assets/Earth/planet-earth.svg";
-import planetEarthInternal from "./assets/Earth/planet-earth-internal.svg";
-import planetEarthGeology from "./assets/Earth/geology-earth.png";
+//import MobileApps from "./assets/MobileApps/samsung.jpg";
+//import planetMobileAppsInternal from "./assets/MobileApps/planet-MobileApps-internal.svg";
+import MobileApps from "./assets/MobileApps/samsung.jpg";
 
-import planetJupiter from "./assets/Jupiter/planet-jupiter.svg";
-import planetJupiterInternal from "./assets/Jupiter/planet-jupiter-internal.svg";
-import planetJupiterGeology from "./assets/Jupiter/geology-jupiter.png";
+//import  WebApps from "./assets/WebApps/server.jpg";
+//import planetWebAppsInternal from "./assets/WebApps/planet-WebApps-internal.svg";
+import WebApps from "./assets/WebApps/server.jpg";
 
-import planetMars from "./assets/Mars/planet-mars.svg";
-import planetMarsInternal from "./assets/Mars/planet-mars-internal.svg";
-import planetMarsGeology from "./assets/Mars/geology-mars.png";
+//import planetSystemsDev from "./assets/SystemsDev/planet-SystemsDev.svg";
+//import planetSystemsDevInternal from "./assets/SystemsDev/planet-SystemsDev-internal.svg";
+import SystemsDev from "./assets/SystemsDev/dev.jpg";
 
-import planetMercury from "./assets/Mercury/planet-mercury.svg";
-import planetMercuryInternal from "./assets/Mercury/planet-mercury-internal.svg";
-import planetMercuryGeology from "./assets/Mercury/geology-mercury.png";
+//import planetBusinessIntel from "./assets/BusinessIntel/planet-BusinessIntel.svg";
+//import planetBusinessIntelInternal from "./assets/BusinessIntel/planet-BusinessIntel-internal.svg";
+import BusinessIntel from "./assets/BusinessIntel/starlink.jpg";
 
-import planetNeptune from "./assets/Neptune/planet-neptune.svg";
-import planetNeptuneInternal from "./assets/Neptune/planet-neptune-internal.svg";
-import planetNeptuneGeology from "./assets/Neptune/geology-neptune.png";
+//import planetCloudComputing from "./assets/CloudComputing/planet-CloudComputing.svg";
+//import planetCloudComputingInternal from "./assets/CloudComputing/planet-CloudComputing-internal.svg";
+import CloudComputing from "./assets/CloudComputing/it.jpg";
 
-import planetSaturn from "./assets/Saturn/planet-saturn.svg";
-import planetSaturnInternal from "./assets/Saturn/planet-saturn-internal.svg";
-import planetSaturnGeology from "./assets/Saturn/geology-saturn.png";
+//import planetCyberSecurity from "./assets/CyberSecurity/planet-CyberSecurity.svg";
+//import planetCyberSecurityInternal from "./assets/CyberSecurity/planet-CyberSecurity-internal.svg";
+import CyberSecurity from "./assets/CyberSecurity/starlink.jpg";
 
-import planetUranus from "./assets/Uranus/planet-uranus.svg";
-import planetUranusInternal from "./assets/Uranus/planet-uranus-internal.svg";
-import planetUranusGeology from "./assets/Uranus/geology-uranus.png";
+//import planetTechSales from "./assets/TechSales/planet-TechSales.svg";
+//import planetTechSalesInternal from "./assets/TechSales/planet-TechSales-internal.svg";
+import TechSales from "./assets/TechSales/laptop.jpg";
 
-import planetVenus from "./assets/Venus/planet-venus.svg";
-import planetVenusInternal from "./assets/Venus/planet-venus-internal.svg";
-import planetVenusGeology from "./assets/Venus/geology-venus.png";
+//import planetTraining from "./assets/Training/planet-Training.svg";
+//import planetTrainingInternal from "./assets/Training/planet-Training-internal.svg";
+import Training from "./assets/Training/laptop.jpg";
 
 export const images = [
-  [planetMercury, planetMercuryInternal, planetMercuryGeology],
-  [planetVenus, planetVenusInternal, planetVenusGeology],
-  [planetEarth, planetEarthInternal, planetEarthGeology],
-  [planetMars, planetMarsInternal, planetMarsGeology],
-  [planetJupiter, planetJupiterInternal, planetJupiterGeology],
-  [planetSaturn, planetSaturnInternal, planetSaturnGeology],
-  [planetUranus, planetUranusInternal, planetUranusGeology],
-  [planetNeptune, planetNeptuneInternal, planetNeptuneGeology],
+  [BusinessIntel],
+  [Training],
+  [MobileApps],
+  [SystemsDev],
+  [WebApps],
+  [CyberSecurity],
+  [TechSales],
+  [CloudComputing],
 ];

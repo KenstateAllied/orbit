@@ -15,14 +15,14 @@ $darkGrey: rgb(56, 56, 79);
 $lightGrey: rgb(131, 131, 145);
 
 //Planet Colors
-$mercury: rgb(65, 158, 187);
-$venus: rgb(237, 162, 73);
-$earth: rgb(109, 46, 213);
-$mars: rgb(209, 76, 50);
-$jupiter: rgb(216, 58, 52);
-$saturn: rgb(205, 81, 32);
-$uranus: rgb(30, 193, 162);
-$neptune: rgb(45, 104, 240);
+$BusinessIntel: rgb(65, 158, 187);
+$Training: rgb(237, 162, 73);
+$MobileApps: rgb(109, 46, 213);
+$SystemsDev: rgb(209, 76, 50);
+$WebApps: rgb(216, 58, 52);
+$CyberSecurity: rgb(205, 81, 32);
+$TechSales: rgb(30, 193, 162);
+$CloudComputing: rgb(45, 104, 240);
 
 body {
   background-color: $black;
@@ -109,28 +109,28 @@ body {
       }
 
       &:nth-child(1)::after {
-        background-color: $mercury;
+        background-color: $BusinessIntel;
       }
       &:nth-child(2)::after {
-        background-color: $venus;
+        background-color: $Training;
       }
       &:nth-child(3)::after {
-        background-color: $earth;
+        background-color: $MobileApps;
       }
       &:nth-child(4)::after {
-        background-color: $mars;
+        background-color: $SystemsDev;
       }
       &:nth-child(5)::after {
-        background-color: $jupiter;
+        background-color: $WebApps;
       }
       &:nth-child(6)::after {
-        background-color: $saturn;
+        background-color: $CyberSecurity;
       }
       &:nth-child(7)::after {
-        background-color: $uranus;
+        background-color: $TechSales;
       }
       &:nth-child(8)::after {
-        background-color: $neptune;
+        background-color: $CloudComputing;
       }
     }
   }
@@ -226,36 +226,36 @@ body {
           -o-transform: scale(1.05);
         }
 
-        &.Mercury {
-          background-color: $mercury;
+        &.BusinessIntel {
+          background-color: $BusinessIntel;
         }
 
-        &.Venus {
-          background-color: $venus;
+        &.Training {
+          background-color: $Training;
         }
 
-        &.Earth {
-          background-color: $earth;
+        &.MobileApps {
+          background-color: $MobileApps;
         }
 
-        &.Mars {
-          background-color: $mars;
+        &.SystemsDev {
+          background-color: $SystemsDev;
         }
 
-        &.Jupiter {
-          background-color: $jupiter;
+        &.WebApps {
+          background-color: $WebApps;
         }
 
-        &.Saturn {
-          background-color: $saturn;
+        &.CyberSecurity {
+          background-color: $CyberSecurity;
         }
 
-        &.Uranus {
-          background-color: $uranus;
+        &.TechSales {
+          background-color: $TechSales;
         }
 
-        &.Neptune {
-          background-color: $neptune;
+        &.CloudComputing {
+          background-color: $CloudComputing;
         }
       }
     }

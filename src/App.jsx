@@ -157,7 +157,7 @@ function App() {
             </h4>
           </div>
           <div className="buttons">
-            <button className="btn Mercury" onClick={ChangeFirstPlanetData}>
+            <button className="btn BusinessIntel" onClick={ChangeFirstPlanetData}>
               <span>01</span> OVERVIEW
             </button>
             <button className="btn" onClick={ChangeSecondPlanetData}>
