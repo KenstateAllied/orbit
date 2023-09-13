@@ -96,39 +96,39 @@ function App() {
   return (
     <>
       <nav className="nav-bar">
-        <h1 className="logo">KENSTATE GROUP</h1>
-
+        <h1 className="logo">KENSTATE ALLIED</h1>
+        <h2 className="logo1">Digital @ your service</h2>
         <div className={`links ${isLinksActive ? "active" : ""}`}>
           <h3 className="link active" tabIndex={0} onClick={ChangeData}>
-            WEB DEV
+            BUSINESS INTELLIGENCE
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
           <h3 className="link" tabIndex={1} onClick={ChangeData}>
-            SYSTEMS DEV
-            <img src={chevronIcon} alt="chevron-icon" />
-          </h3>
-          <h3 className="link" tabIndex={2} onClick={ChangeData}>
-            MOBILE APPS
-            <img src={chevronIcon} alt="chevron-icon" />
-          </h3>
-          <h3 className="link" tabIndex={3} onClick={ChangeData}>
-            BUSINESS INTEL
-            <img src={chevronIcon} alt="chevron-icon" />
-          </h3>
-          <h3 className="link" tabIndex={4} onClick={ChangeData}>
             CLOUD COMPUTING
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
-          <h3 className="link" tabIndex={5} onClick={ChangeData}>
+          <h3 className="link" tabIndex={2} onClick={ChangeData}>
             CYBER SECURITY
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
-          <h3 className="link" tabIndex={6} onClick={ChangeData}>
+          <h3 className="link" tabIndex={3} onClick={ChangeData}>
+            MOBILE APPS
+            <img src={chevronIcon} alt="chevron-icon" />
+          </h3>
+          <h3 className="link" tabIndex={4} onClick={ChangeData}>
+            SYSTEMS DEV
+            <img src={chevronIcon} alt="chevron-icon" />
+          </h3>
+          <h3 className="link" tabIndex={5} onClick={ChangeData}>
             TECH SALES
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
-          <h3 className="link" tabIndex={7} onClick={ChangeData}>
+          <h3 className="link" tabIndex={6} onClick={ChangeData}>
             TRAINING
+            <img src={chevronIcon} alt="chevron-icon" />
+          </h3>
+          <h3 className="link" tabIndex={7} onClick={ChangeData}>
+            WEB APPS
             <img src={chevronIcon} alt="chevron-icon" />
           </h3>
         </div>
@@ -169,6 +169,9 @@ function App() {
           </div>
         </div>
       </main>
+
+
+      
       <footer className="footer">
         <div className="item">
           <h3 className="name">Rotation Time</h3>
@@ -187,6 +190,9 @@ function App() {
           <h3 className="details">{temperatureText}</h3>
         </div>
       </footer>
+
+     
+
     </>
   );
 }

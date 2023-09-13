@@ -9,20 +9,20 @@
 }
 
 //Colors
-$white: rgb(255, 255, 255);
+$white: rgb(128,128,128);
 $black: rgb(7, 7, 36);
 $darkGrey: rgb(56, 56, 79);
 $lightGrey: rgb(131, 131, 145);
 
 //Planet Colors
-$BusinessIntel: rgb(65, 158, 187);
+$BusinessIntel: rgb(237, 162, 73);
 $Training: rgb(237, 162, 73);
-$MobileApps: rgb(109, 46, 213);
-$SystemsDev: rgb(209, 76, 50);
-$WebApps: rgb(216, 58, 52);
-$CyberSecurity: rgb(205, 81, 32);
-$TechSales: rgb(30, 193, 162);
-$CloudComputing: rgb(45, 104, 240);
+$MobileApps: rgb(237, 162, 73);
+$SystemsDev: rgb(237, 162, 73);
+$WebApps: rgb(237, 162, 73);
+$CyberSecurity: rgb(237, 162, 73);
+$TechSales: rgb(237, 162, 73);
+$CloudComputing: rgb(237, 162, 73);
 
 body {
   background-color: $black;
@@ -43,7 +43,7 @@ body {
   }
 
   .logo {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 500;
     color: $white;
     font-family: "Antonio", sans-serif;
