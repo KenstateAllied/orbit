@@ -92,28 +92,28 @@ body {
   width: 100%;
 }
 .nav-bar .links .link:nth-child(1)::after {
-  background-color: rgb(65, 158, 187);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(2)::after {
   background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(3)::after {
-  background-color: rgb(109, 46, 213);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(4)::after {
-  background-color: rgb(209, 76, 50);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(5)::after {
-  background-color: rgb(216, 58, 52);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(6)::after {
-  background-color: rgb(205, 81, 32);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(7)::after {
-  background-color: rgb(30, 193, 162);
+  background-color: rgb(237, 162, 73);
 }
 .nav-bar .links .link:nth-child(8)::after {
-  background-color: rgb(45, 104, 240);
+  background-color: rgb(237, 162, 73);
 }
 
 .main-section {
