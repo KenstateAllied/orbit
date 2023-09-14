@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://65033f13a6d44704b4668e03--jovial-kitten-c55484.netlify.app/",
+  "homepage": "root",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
