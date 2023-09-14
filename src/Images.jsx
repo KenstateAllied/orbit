@@ -12,7 +12,9 @@ import SystemsDev from "./assets/SystemsDev/SystemsDev.jpg";
 
 //import planetBusinessIntel from "./assets/BusinessIntel/planet-BusinessIntel.svg";
 //import planetBusinessIntelInternal from "./assets/BusinessIntel/planet-BusinessIntel-internal.svg";
+
 import BusinessIntel from "./assets/BusinessIntel/BI_crucial.jpg";
+//import BusinessIntel from "./assets/BusinessIntel/BI_crucial.jpg";
 
 //import planetCloudComputing from "./assets/CloudComputing/planet-CloudComputing.svg";
 //import planetCloudComputingInternal from "./assets/CloudComputing/planet-CloudComputing-internal.svg";
